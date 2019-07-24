@@ -1,0 +1,347 @@
+[
+  {
+    "data": [
+      {
+        "title": "Nissan",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+        "imagePath": "nomad_landing_img.jpg",
+        "slug": "nissan",
+        "pageContent": {
+          "title": "Nissan",
+          "summary": [
+            "Our team worked with Nissan to develop a new user experience for their upcoming 2020 electric crossover vehicle and supporting ecosystem. Solutions were to be firmly rooted in consumer needs and desires, as supported by research completed in two regions. After initial designs were completed, these would validated through user testing with prototypes and rapid iteration."
+          ],
+          "rowSummary": [
+            {
+              "title": "My role",
+              "content": "Research, Interaction Design, Usability Testing"
+            },
+            {
+              "title": "Duration",
+              "content": "7 months"
+            },
+            {
+              "title": "Output",
+              "content": "Working in-vehicle prototype demonstrating user experience vision for Nissan’s 2020 crossover electric vehicle."
+            }
+          ],
+          "disclaimer": "Note: To comply with my non-disclosure agreement, I have intentionally omitted and obfuscated confidential information. If you have questions, please get in touch.",
+          "section1": {
+            "title": "Discovery",
+            "content": [
+              "Before we could jump into designing, we needed to first define success, ensure everybody was on the same page, and gain an understanding of the broader EV landscape. We gathered teams and stakeholders into the same room to develop a shared understanding of the project vision, business objectives, target users, technical specifications, and scheduled milestones."
+            ]
+          },
+          "section2": {
+            "title": "Research",
+            "content": [
+              "Field research was conducted in three regions: SF Bay Area, London, U.K. and Manchester, U.K. The goal of this research was to understand driver's routines and behaviors around device and service integration in the car. For EV drivers, we wanted to learn and discuss how and when charging took place. For all drivers, we wanted to discuss perceptions and sentiments around Electric Vehicles."
+            ]
+          },
+          "section3": {
+            "title": "Findings",
+            "content": [
+              "Over the course of our twenty-eight conversations, we heard common motivations, needs and pain points emerge. This data was synthesized into a set of nine common themes that fell into three categories: Personalization, Convenience, and Trust."
+            ]
+          },
+          "section4": {
+            "title": "User Journeys",
+            "content": [
+              "We updated our initial personas to better align with our findings in the field. Through concept sketching, we broadly sketched around the themes and ideas we heard most resonating with the participants in our interviews (such as personalization, contextual awareness, and enhanced driving). These were then culled into emerging themes that we developed into user stories for each of our three personas."
+            ]
+          },
+          "section5": {
+            "title": "Wireframes",
+            "content": [
+              "Our stories and hero moments defined, we moved into pixels feeling confident that we had a thorough understanding on the needs of users. Over the course of 6 weeks we worked to create how the meter, CID, HUD and companion phone experience could work together to deliver the best EV driving experience possible, all the while keeping in eye to the research and the needs of users. InVision prototypes were used throughout the process to roughly test that ideas were working as intended."
+            ]
+          },
+          "section6": {
+            "title": "Protyping & Testing",
+            "content": [
+              "To assess user’s understanding and perception of our designs, we employed an agile practice of weekly usability testing over the course of five weeks, with each session followed by quick design iterations based on our findings. Adhering to this process enabled us to quickly update and improve usability for the in-car HMI."
+            ]
+          },
+          "section7": {
+            "title": "Final Designs",
+            "content": [
+
+            ]
+          },
+          "image0": "nissan_0.png",
+          "image1": "nissan_1.jpg",
+          "image2": "nissan_2.jpg",
+          "image3": "nissan_3.jpg",
+          "image4": "nissan_4.jpg",
+          "image5": "nissan_5.jpg",
+          "image6": "nissan_6.jpg",
+          "image7": "nissan_7.png",
+          "image8": "nissan_8.png",
+          "image9": "nissan_9.png",
+          "image10": "nissan_10.jpg",
+          "image11": "nissan_11.jpg",
+          "image12": "nissan_12.png",
+          "image13": "nissan_13.png",
+          "image14": "nissan_14.png",
+          "image15": "nissan_15.png",
+          "image16": "nissan_16.png"
+        }
+      },
+      {
+        "title": "Experian",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+        "imagePath": "nomad_landing_img.jpg",
+        "slug": "experian",
+        "pageContent": {
+          "title": "Nissan",
+          "summary": [
+            "Our team worked with Nissan to develop a new user experience for their upcoming 2020 electric crossover vehicle ",
+            "and supporting ecosystem. Solutions were to be firmly rooted in consumer needs and desires, as supported by research completed in two regions. After initial designs were completed, these would validated through user testing with prototypes and rapid iteration."
+          ],
+          "rowSummary": [
+            {
+              "title": "My role",
+              "content": "Research, Interaction Design, Usability Testing"
+            },
+            {
+              "title": "Duration",
+              "content": "7 months"
+            },
+            {
+              "title": "Output",
+              "content": "Working in-vehicle prototype demonstrating user experience vision for Nissan’s 2020 crossover electric vehicle."
+            }
+          ],
+          "disclaimer": "Note: To comply with my non-disclosure agreement, I have intentionally omitted and obfuscated confidential information. If you have questions, please get in touch.",
+          "section1": {
+            "title": "Discovery",
+            "content": [
+              "Before we could jump into designing, we needed to first define success, ensure everybody was on the same page, and gain an understanding of the broader EV landscape. We gathered teams and stakeholders into the same room to develop a shared understanding of the project vision, business objectives, target users, technical specifications, and scheduled milestones."
+            ]
+          },
+          "section2": {
+            "title": "Research",
+            "content": [
+              "Field research was conducted in three regions: SF Bay Area, London, U.K. and Manchester, U.K. The goal of this research was to understand driver's routines and behaviors around device and service integration in the car. For EV drivers, we wanted to learn and discuss how and when charging took place. For all drivers, we wanted to discuss perceptions and sentiments around Electric Vehicles."
+            ]
+          },
+          "section3": {
+            "title": "Findings",
+            "content": [
+              "Over the course of our twenty-eight conversations, we heard common motivations, needs and pain points emerge. This data was synthesized into a set of nine common themes that fell into three categories: Personalization, Convenience, and Trust."
+            ]
+          },
+          "section4": {
+            "title": "User Journeys",
+            "content": [
+              "We updated our initial personas to better align with our findings in the field. Through concept sketching, we broadly sketched around the themes and ideas we heard most resonating with the participants in our interviews (such as personalization, contextual awareness, and enhanced driving). These were then culled into emerging themes that we developed into user stories for each of our three personas."
+            ]
+          },
+          "section5": {
+            "title": "Wireframes",
+            "content": [
+              "Our stories and hero moments defined, we moved into pixels feeling confident that we had a thorough understanding on the needs of users. Over the course of 6 weeks we worked to create how the meter, CID, HUD and companion phone experience could work together to deliver the best EV driving experience possible, all the while keeping in eye to the research and the needs of users. InVision prototypes were used throughout the process to roughly test that ideas were working as intended."
+            ]
+          },
+          "section6": {
+            "title": "Protyping & Testing",
+            "content": [
+              "To assess user’s understanding and perception of our designs, we employed an agile practice of weekly usability testing over the course of five weeks, with each session followed by quick design iterations based on our findings. Adhering to this process enabled us to quickly update and improve usability for the in-car HMI."
+            ]
+          },
+          "section7": {
+            "title": "Final Designs",
+            "content": []
+          },
+          "image0": "nissan_0.png",
+          "image1": "nissan_1.jpg",
+          "image2": "nissan_2.jpg",
+          "image3": "nissan_3.jpg",
+          "image4": "nissan_4.jpg",
+          "image5": "nissan_5.jpg",
+          "image6": "nissan_6.jpg",
+          "image7": "nissan_7.png",
+          "image8": "nissan_8.png",
+          "image9": "nissan_9.png",
+          "image10": "nissan_10.jpg",
+          "image11": "nissan_11.jpg",
+          "image12": "nissan_12.png",
+          "image13": "nissan_13.png",
+          "image14": "nissan_14.png",
+          "image15": "nissan_15.png",
+          "image16": "nissan_16.png"
+        }
+      },
+      {
+        "title": "Fitbit",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+        "imagePath": "nomad_landing_img.jpg",
+        "slug": "fitbit",
+        "pageContent": {
+          "title": "Nissan",
+          "summary": [
+            "Our team worked with Nissan to develop a new user experience for their upcoming 2020 electric crossover vehicle ",
+            "and supporting ecosystem. Solutions were to be firmly rooted in consumer needs and desires, as supported by research completed in two regions. After initial designs were completed, these would validated through user testing with prototypes and rapid iteration."
+          ],
+          "rowSummary": [
+            {
+              "title": "My role",
+              "content": "Research, Interaction Design, Usability Testing"
+            },
+            {
+              "title": "Duration",
+              "content": "7 months"
+            },
+            {
+              "title": "Output",
+              "content": "Working in-vehicle prototype demonstrating user experience vision for Nissan’s 2020 crossover electric vehicle."
+            }
+          ],
+          "disclaimer": "Note: To comply with my non-disclosure agreement, I have intentionally omitted and obfuscated confidential information. If you have questions, please get in touch.",
+          "section1": {
+            "title": "Discovery",
+            "content": [
+              "Before we could jump into designing, we needed to first define success, ensure everybody was on the same page, and gain an understanding of the broader EV landscape. We gathered teams and stakeholders into the same room to develop a shared understanding of the project vision, business objectives, target users, technical specifications, and scheduled milestones."
+            ]
+          },
+          "section2": {
+            "title": "Research",
+            "content": [
+              "Field research was conducted in three regions: SF Bay Area, London, U.K. and Manchester, U.K. The goal of this research was to understand driver's routines and behaviors around device and service integration in the car. For EV drivers, we wanted to learn and discuss how and when charging took place. For all drivers, we wanted to discuss perceptions and sentiments around Electric Vehicles."
+            ]
+          },
+          "section3": {
+            "title": "Findings",
+            "content": [
+              "Over the course of our twenty-eight conversations, we heard common motivations, needs and pain points emerge. This data was synthesized into a set of nine common themes that fell into three categories: Personalization, Convenience, and Trust."
+            ]
+          },
+          "section4": {
+            "title": "User Journeys",
+            "content": [
+              "We updated our initial personas to better align with our findings in the field. Through concept sketching, we broadly sketched around the themes and ideas we heard most resonating with the participants in our interviews (such as personalization, contextual awareness, and enhanced driving). These were then culled into emerging themes that we developed into user stories for each of our three personas."
+            ]
+          },
+          "section5": {
+            "title": "Wireframes",
+            "content": [
+              "Our stories and hero moments defined, we moved into pixels feeling confident that we had a thorough understanding on the needs of users. Over the course of 6 weeks we worked to create how the meter, CID, HUD and companion phone experience could work together to deliver the best EV driving experience possible, all the while keeping in eye to the research and the needs of users. InVision prototypes were used throughout the process to roughly test that ideas were working as intended."
+            ]
+          },
+          "section6": {
+            "title": "Protyping & Testing",
+            "content": [
+              "To assess user’s understanding and perception of our designs, we employed an agile practice of weekly usability testing over the course of five weeks, with each session followed by quick design iterations based on our findings. Adhering to this process enabled us to quickly update and improve usability for the in-car HMI."
+            ]
+          },
+          "section7": {
+            "title": "Final Designs",
+            "content": []
+          },
+          "image0": "nissan_0.png",
+          "image1": "nissan_1.jpg",
+          "image2": "nissan_2.jpg",
+          "image3": "nissan_3.jpg",
+          "image4": "nissan_4.jpg",
+          "image5": "nissan_5.jpg",
+          "image6": "nissan_6.jpg",
+          "image7": "nissan_7.png",
+          "image8": "nissan_8.png",
+          "image9": "nissan_9.png",
+          "image10": "nissan_10.jpg",
+          "image11": "nissan_11.jpg",
+          "image12": "nissan_12.png",
+          "image13": "nissan_13.png",
+          "image14": "nissan_14.png",
+          "image15": "nissan_15.png",
+          "image16": "nissan_16.png"
+        }
+      },
+      {
+        "title": "Disney",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+        "imagePath": "nomad_landing_img.jpg",
+        "slug": "disney",
+        "pageContent": {
+          "title": "Nissan",
+          "summary": [
+            "Our team worked with Nissan to develop a new user experience for their upcoming 2020 electric crossover vehicle ",
+            "and supporting ecosystem. Solutions were to be firmly rooted in consumer needs and desires, as supported by research completed in two regions. After initial designs were completed, these would validated through user testing with prototypes and rapid iteration."
+          ],
+          "rowSummary": [
+            {
+              "title": "My role",
+              "content": "Research, Interaction Design, Usability Testing"
+            },
+            {
+              "title": "Duration",
+              "content": "7 months"
+            },
+            {
+              "title": "Output",
+              "content": "Working in-vehicle prototype demonstrating user experience vision for Nissan’s 2020 crossover electric vehicle."
+            }
+          ],
+          "disclaimer": "Note: To comply with my non-disclosure agreement, I have intentionally omitted and obfuscated confidential information. If you have questions, please get in touch.",
+          "section1": {
+            "title": "Discovery",
+            "content": [
+              "Before we could jump into designing, we needed to first define success, ensure everybody was on the same page, and gain an understanding of the broader EV landscape. We gathered teams and stakeholders into the same room to develop a shared understanding of the project vision, business objectives, target users, technical specifications, and scheduled milestones."
+            ]
+          },
+          "section2": {
+            "title": "Research",
+            "content": [
+              "Field research was conducted in three regions: SF Bay Area, London, U.K. and Manchester, U.K. The goal of this research was to understand driver's routines and behaviors around device and service integration in the car. For EV drivers, we wanted to learn and discuss how and when charging took place. For all drivers, we wanted to discuss perceptions and sentiments around Electric Vehicles."
+            ]
+          },
+          "section3": {
+            "title": "Findings",
+            "content": [
+              "Over the course of our twenty-eight conversations, we heard common motivations, needs and pain points emerge. This data was synthesized into a set of nine common themes that fell into three categories: Personalization, Convenience, and Trust."
+            ]
+          },
+          "section4": {
+            "title": "User Journeys",
+            "content": [
+              "We updated our initial personas to better align with our findings in the field. Through concept sketching, we broadly sketched around the themes and ideas we heard most resonating with the participants in our interviews (such as personalization, contextual awareness, and enhanced driving). These were then culled into emerging themes that we developed into user stories for each of our three personas."
+            ]
+          },
+          "section5": {
+            "title": "Wireframes",
+            "content": [
+              "Our stories and hero moments defined, we moved into pixels feeling confident that we had a thorough understanding on the needs of users. Over the course of 6 weeks we worked to create how the meter, CID, HUD and companion phone experience could work together to deliver the best EV driving experience possible, all the while keeping in eye to the research and the needs of users. InVision prototypes were used throughout the process to roughly test that ideas were working as intended."
+            ]
+          },
+          "section6": {
+            "title": "Protyping & Testing",
+            "content": [
+              "To assess user’s understanding and perception of our designs, we employed an agile practice of weekly usability testing over the course of five weeks, with each session followed by quick design iterations based on our findings. Adhering to this process enabled us to quickly update and improve usability for the in-car HMI."
+            ]
+          },
+          "section7": {
+            "title": "Final Designs",
+            "content": []
+          },
+          "image0": "nissan_0.png",
+          "image1": "nissan_1.jpg",
+          "image2": "nissan_2.jpg",
+          "image3": "nissan_3.jpg",
+          "image4": "nissan_4.jpg",
+          "image5": "nissan_5.jpg",
+          "image6": "nissan_6.jpg",
+          "image7": "nissan_7.png",
+          "image8": "nissan_8.png",
+          "image9": "nissan_9.png",
+          "image10": "nissan_10.jpg",
+          "image11": "nissan_11.jpg",
+          "image12": "nissan_12.png",
+          "image13": "nissan_13.png",
+          "image14": "nissan_14.png",
+          "image15": "nissan_15.png",
+          "image16": "nissan_16.png"
+        }
+      }
+    ]
+  } 
+]

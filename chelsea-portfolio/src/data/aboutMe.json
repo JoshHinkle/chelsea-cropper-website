@@ -1,0 +1,96 @@
+[
+  {
+    "data": {
+      "title": "Real quick, a bit about me:",
+      "introParagraph": [
+        "I was born and raised in the Bay Area, spent a few years at UCLA getting my degree in Design | Media Arts, and I now  live in San Francisco with a cat that isn't that great and a puppy who is.",
+        "If I'm not working, I'm probably a playing a video game, visiting a ghost town, traveling somewhere, or at the SF Library researching local history. I'm also very fond of film photography and spend much of my time roaming around, enjoying the company of my camera. You can view some of our time together here."
+      ],
+      "imagePath": "profile_crop.jpg",
+      "resumeFields": [
+        {
+          "title": "EXPERIENCE",
+          "entries": [
+            {
+              "title": "PUNCHCUT",
+              "subtitle": "Senior Interaction Designer",
+              "date": "04/15 - Present",
+              "content": [
+                "Lead Interaction Designer for web, mobile, tablet, TV, wearables, and automotive products",
+                "Lead brainstorming and concepting sessions internally and with clients",
+                "Develop use cases, personas, wireframes, storyboards, detailed specifications, and prototypes",
+                "Lead ethnographic user research and analysis activities to uncover user needs and motivations",
+                "Deliver detailed design documentation, flows, and specifications",
+                "Provide guidance and mentorship to peers and junior team members"
+              ]
+            },
+            {
+              "title": "IGN",
+              "subtitle": "Interaction Designer",
+              "date": "10/13 - 05/14",
+              "content": [
+                "Conceptualized and executed redesign of editorial & video content viewing experiences on IGN.com",
+                "Developed user experience strategy, vision, and conceptual UI models",
+                "Partnered with cross-functional teams to define user needs, opportunities, and product requirements",
+                "Provided documentation and oversight to ensure product vision were carried through across product development and implementation process"
+              ]
+            },
+            {
+              "title": "ZINIO",
+              "subtitle": "Senior Interaction Designer",
+              "date": "07/12 - 10/13",
+              "content": [
+                "Lead design for cross-platform web and mobile experiences through sketches, wireframes, and prototypes",
+                "Consulted with key stakeholders to ensure all interests were considered and vetted",
+                "Advocated UX best practices and processes across teams through outreach and workshops",
+                "Worked with visual designers and developers to ensure products were launched according to specifications"
+              ]
+            },
+            {
+              "title": "PUNCHCUT",
+              "subtitle": "Interaction Designer",
+              "date": "02/10 - 7/12",
+              "content": [
+                "Interaction design for web, mobile, kiosk and TV experiences",
+                "Developed diagrams, workflows, personas, and storyboards to conceptualize user experiences",
+                "Produced annotated wireframes, interaction specifications, and interactive prototypes"
+              ]
+            },
+            {
+              "title": "LUNAR",
+              "subtitle": "Visual Interaction Designer",
+              "date": "01/10 - 11/10",
+              "content": [
+                "Hardware and software designs for medical and consumer devices",
+                "Developed concepts, UI models, task flows, wireframes, and prototypes of varying fidelity",
+                "Created production assets and documented visual systems for engineering teams"
+              ]
+            },
+            {
+              "title": "SMART DESIGN",
+              "subtitle": "Visual Interaction Design",
+              "date": "06/09 - 1/10",
+              "content": [
+                "Created conceptual diagrams, workflows, use cases, personas, user journeys and storyboards for TV, tablet, desktop and embedded UI experience",
+                "Concepted through low and high fidelity mockups, storyboarding, sketches, and paper prototypes",
+                "Established visual design direction, color palette, layout, iconography, etc"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EDUCATION",
+          "entries": [
+            {
+              "title": "UCLA School of the Arts and Architecture",
+              "subtitle": "BA Design | Media Arts",
+              "date": "2008",
+              "content": [
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
