@@ -1,0 +1,275 @@
+[
+  {
+    "data": [
+      {
+        "title": "Nissan",
+        "description": "HMI for upcoming 2020 electric crossover vehicle.",
+        "imagePath": "nissan_16.png",
+        "slug": "nissan",
+        "pageContent": {
+          "title": "Nissan",
+          "summary": [
+            "Our team worked with Nissan to develop a new user experience for their upcoming 2020 electric crossover vehicle and supporting ecosystem. Solutions were to be firmly rooted in consumer needs and desires, as supported by research completed in two regions. After initial designs were completed, these would validated through user testing with prototypes and rapid iteration."
+          ],
+          "rowSummary": [
+            {
+              "title": "My role",
+              "content": "Research, Interaction Design, Usability Testing"
+            },
+            {
+              "title": "Duration",
+              "content": "7 months"
+            },
+            {
+              "title": "Output",
+              "content": "Working in-vehicle prototype demonstrating user experience vision for Nissan’s 2020 crossover electric vehicle."
+            }
+          ],
+          "disclaimer": "Note: To comply with my non-disclosure agreement, I have intentionally omitted and obfuscated confidential information. If you have questions, please get in touch.",
+          "section1": {
+            "title": "Discovery",
+            "content": [
+              "Before we could jump into designing, we needed to first define success, ensure everybody was on the same page, and gain an understanding of the broader EV landscape. We gathered teams and stakeholders into the same room to develop a shared understanding of the project vision, business objectives, target users, technical specifications, and scheduled milestones."
+            ]
+          },
+          "section2": {
+            "title": "Research",
+            "content": [
+              "Field research was conducted in three regions: SF Bay Area, London, U.K. and Manchester, U.K. The goal of this research was to understand user needs, patterns, and expectations within their entire mobility ecosystem. For EV drivers, we wanted to learn and discuss how and when charging took place. For all drivers, we wanted to discuss perceptions and sentiments around Electric Vehicles.",
+              "Interviews were conducted in participant's homes and vehicles for two hours. Activities during this time included a 45 minute contextual interview, a vehicle blueprint exercise, a tour of their personal vehicle and charging process, a drive demo, and a concept card sort exercise where we evaluated people's opinions on fifteen initial vehicle experiences."
+            ]
+          },
+          "section3": {
+            "title": "Findings",
+            "content": [
+              "Over the course of our twenty-eight conversations, we heard common motivations, needs and pain points emerge. We synthesized these into a set of nine common themes which could be seen as falling under the larger categories of:",
+              "Personalization: High levels of personalization were desired without sacrificing security and efficiency. Vehicles should recognize their owners and learn their behaviors over time.",
+              "Convenience: Users expressed wanting a seamless experience that requires little effort or thought. Typical EV challenges should be non-issues.",
+              "Trust: Users wanted to be in control, yet were willing to cede a certain amount of autonomy when it meant their vehicle could ease mobility frictions."
+            ]
+          },
+          "section4": {
+            "title": "User Journeys",
+            "content": [
+              "User Journeys were created which helped identify core principles and key hero moments to explore. Through concept sketching, we broadly sketched around the themes and ideas we heard most resonating with the participants in our interviews (such as personalization, contextual awareness, and enhanced driving). These were then culled into emerging themes that we developed into user stories for each of our three personas."
+            ]
+          },
+          "section5": {
+            "title": "Wireframes & Prototypes",
+            "content": [
+              "Wireframes and prototypes were created to test and refine our primary concepts and create a final hero journey. Over the course of 6 weeks we worked to create how the meter, CID, HUD and companion phone experience could work together to deliver a seamless EV driving experience, all the while keeping an eye to the research and the needs of users. 4 core HMI principles, informed by our field research helped to guide our designs:",
+              "Simplify the Workload: Keep information contextual and don’t overwhelm the driver with too many options.",
+              "Prioritize Common Actions: Common actions and tasks should be up front, while lightly used or custom features can be several layers down.",
+              "Personalize the Experience:  Allow for customization, but not at the expense of usability.",
+              "Connect with Ease: Allow for seamless connections of device and services without compromising driver security and privacy.",
+              "InVision and paper prototypes were used throughout the process to roughly test that ideas were working as intended."
+            ]
+          },
+          "section6": {
+            "title": "Testing",
+            "content": [
+              "To assess user’s understanding and perception of our designs, we employed an agile practice of weekly usability testing over the course of five weeks, with each session followed by quick design iterations based on our findings. Adhering to this process enabled us to quickly update and improve usability for the in-car HMI.",
+              "Participants were seated in a testing buck with three active screens representing the CID, Meter, and HUD. Printouts on the steering wheel and where the HVAC keys were also pointed out as additional options for vehicle input.",
+              "Participants were asked to complete a series of tasks and were then asked follow-up questions relating to their experience. Each usability testing session was unique, and aimed at gathering data across our 7 key areas of the experience."
+            ]
+          },
+          "section7": {
+            "title": "Final Designs",
+            "content": [
+
+            ]
+          },
+          "image0": "nissan_0.png",
+          "image1": "nissan_1.jpg",
+          "image2": "nissan_2.jpg",
+          "image3": "nissan_3.jpg",
+          "image4": "nissan_4.jpg",
+          "image5": "nissan_5.jpg",
+          "image6": "nissan_6.jpg",
+          "image7": "nissan_7.png",
+          "image8": "nissan_8.png",
+          "image9": "nissan_9.png",
+          "image10": "nissan_10.jpg",
+          "image11": "nissan_11.jpg",
+          "image12": "nissan_12.png",
+          "image13": "nissan_13.png",
+          "image14": "nissan_14.png",
+          "image15": "nissan_15.png",
+          "image16": "nissan_16.png"
+        }
+      },
+      {
+        "title": "Experian",
+        "description": "New system to help people better engage with and understand their credit.",
+        "imagePath": "experian_hero.jpg",
+        "slug": "experian",
+        "pageContent": {
+          "title": "Experian",
+          "summary": [
+            "Faced with a changing credit industry, weak brand allegiance, and new competition from services such as Credit Karma, Experian needed to find a way to connect with users as well as find new streams of revenue not solely reliant on the delivery of one's credit score. We were approached to envision the future of the Experian web experience through a more holistic and humanized user experience."
+          ],
+          "rowSummary": [
+            {
+              "title": "My role",
+              "content": "Lead Interaction Designer"
+            },
+            {
+              "title": "Duration",
+              "content": "8 Weeks"
+            },
+            {
+              "title": "Output",
+              "content": "Responsive web design system"
+            }
+          ],
+          "disclaimer": "Note: To comply with my non-disclosure agreement, I have intentionally omitted and obfuscated confidential information. If you have questions, please get in touch.",
+          "section1": {
+            "title": "Discovery",
+            "content": [
+              "Market Understanding: Experian's market landscape was populated with similar services and offerings such as Credit Karma and Credit Sesame which we performed an audit of in order to understand their general positioning, strengths, and weaknesses. We also evaluated secondary offerings, such as Mint, Theft ID, and Nerd wallet, to understand the full market landscape.",
+              "User Understanding: Previous research conducted by Experian had revealed 4 user archetypes. We took these users and abstracted some core goals and pain points, as well as what future features of Experian would have the greatest impact on them.",
+              "Experience Attributes: We identified the desired user experience attributes and qualities of the experience. Identifying this helped to guide the overarching tone of the experience by defining what the experience is and is not. These were then distilled into 6 themes: human, rewarding, actionable, trusted, holistic, engaging."
+            ]
+          },
+          "section2": {
+            "title": "Approach",
+            "content": [
+              "We set out to make the next iteration of Experian to be about the holistic relationship of users to their credit score, not just a moment-in-time glimpse into their current standing. This would instead be a continuum where people would learn to understand their credit score and take steps to improve and maintain it. It would be a humanized approach to understanding and growing credit health, and giving users tools to achieve their goals."
+            ]
+          },
+          "section3": {
+            "title": "Constraints",
+            "content": [
+              "Our approach on this project also took into account the outside influences limiting what Experian would be able to offer. Legislative measures such as CROA and the Browning act limited the services credit bureaus were able to offer, as well as the language permissible to use. Words such as \"advice\" presented a challenge and \"you should do ____\" was not allowed. There were also strict requirements around disclosures - including a number that needed to be surface above-the-fold.",
+              "All this meant creating an experience aimed at creating a better-informed relationship with the user around their credit score and history without explicitly being able to reach a conclusion or direction to point them in."
+            ]
+          },
+          "section4": {
+            "title": "Initial Concepts",
+            "content": [
+              "In the initial round of concerting, we explored product features through personality lenses that closely related to Experian's brand persona, the Expedition Leader. This revealed the Experian brand as it was understood as a product today, and into the future. Concepts focused on empowering users to lead the life they aspire to through education, inspiration, and action."
+            ]
+          },
+          "section5": {
+            "title": "Designs - Overview & My Plan",
+            "content": [
+              "After several rounds of concepting and iteration, our designs began to coalesce around the idea of “Journey”. The spirit of this direction was about providing the user with an overview of their credit history, their credit future, and providing a clear path to achieve their goals.",
+              "The entry to the experience provides users with an overview of the latest events in their credit journey—including the most recent impacts to their credit score and its health, what is helping and hurting their score, and progress they’ve made toward their goals. These goals are set up on the “My Plan” page that helps the user set up their credit-related goals."
+            ]
+          },
+          "section6": {
+            "title": "Designs - My Offers",
+            "content": [
+              "The “My Offers” section was one  of the more challenging sections of the experience to design for. Given our constraints by law around not explicitly recommending cards for people, as well as an ethical restraint we felt as good stewards of the experience to not recommend to users credit cards when they shouldn’t get one, we had to find a way to present these revenue-generating items for Experian in a restrained and responsible way. A balance was struck by providing transparency and education around credit card offers, as well as how credit cards could be used to help users achieve their goals."
+            ]
+          },
+          "section7": {
+            "title": "Final Designs",
+            "content": []
+          },
+          "image0": "experian_0.png",
+          "image1": "experian_1.jpg",
+          "image2": "experian_2.jpg",
+          "image3": "experian_3.jpg",
+          "image4": "experian_4.jpg",
+          "image5": "experian_5.jpg",
+          "image6": "experian_6.jpg",
+          "image7": "experian_7.jpg",
+          "image8": "experian_8.png",
+          "image9": "experian_9.jpg",
+          "image10": "experian_11.jpg",
+          "image11": "experian_12.jpg",
+          "image12": "experian_13.jpg",
+          "image13": "experian_14.jpg",
+          "image14": "experian_15.jpg",
+          "image15": "experian_16.jpg",
+          "image16": "experian_17.jpg"
+        }
+      },
+      {
+        "title": "Fitbit",
+        "description": "iOS App store design for the Fitbit Ionic",
+        "imagePath": "fitbit_landing.jpg",
+        "slug": "fitbit",
+        "pageContent": {
+          "title": "Fitbit",
+          "summary": [
+            "Our team partnered closely with Fitbit to envision and design the application and clock face management experience for the Fitbit iOS mobile companion application."
+          ],
+          "rowSummary": [
+            {
+              "title": "My role",
+              "content": "Lead Interaction Designer"
+            },
+            {
+              "title": "Duration",
+              "content": "6 weeks"
+            },
+            {
+              "title": "Output",
+              "content": "Fully designed artifacts and design specs with annotated user flows"
+            }
+          ],
+          "disclaimer": "Note: To comply with my non-disclosure agreement, I have intentionally omitted and obfuscated confidential information. If you have questions, please get in touch.",
+          "section1": {
+            "title": "Discovery",
+            "content": [
+              "We began by first understanding the device the experience would live on: the Fitbit Ionic. The device was intended for users wanting to take advantage of Fitbit's most advanced and complete fitness experience to date and was equipped with the device were GPS, an improved HR sensor, on-board music storage, NFC payments, and wi-fi in support of this.",
+              "Previously conducted research had identified two key personas as target audiences for the Ionic: one more focused on utilizing the system in a lightweight way to stay consistent in their weekly fitness routing, and another focused on using the device’s advanced features to help reach a goal of running marathons in the future."
+            ]
+          },
+          "section2": {
+            "title": "App Gallery",
+            "content": [
+              "One of the biggest differences between the Ionic and the devices that came previously was the inclusion of an app store. At launch, this would include a few select apps, but the experience needed to be able to scale in anticipation of other apps being added in the near future. Browsing and searching for an app, viewing app details, and installing were the key user flows we focused on, as were the post-installation considerations of editing app settings and providing a mechanism for removal from the device."
+            ]
+          },
+          "section3": {
+            "title": "Clock Settings",
+            "content": [
+              "The Ionic would include a wide variety of clockfaces (50+ at launch). We needed to design a system for users to be able to select a clock face and optionally personalize it. There were two levels of customization for clocks featured on the device: basic customization (selection from pre-defined colors) and full customization (selection from pre-defined colors as well as editable information and appearance). Both clock types needed to be fully supported."
+            ]
+          },
+          "section4": {
+            "title": "Initial Concepts",
+            "content": [
+              "After conducting a competitive/comparative audit, we dove into mapping out the key moments of the user’s journey. We identified these as awareness, discover, install, manage, and uninstall. With these plotted on a course, we began to sketch ideas around each moment of how the experience might work."
+            ]
+          },
+          "section5": {
+            "title": "Designs - App Gallery",
+            "content": [
+              "We began to look at how users would understand and install applications. While common patterns for app stores are well-known by most users, the Ionic had to be a bit different due to the limited space available on the device. We created a system of slots, where one app would fit in one slot and there were a finite number of slots available. This was intended to message to the user up-front, that storage was a more limited resource than they were accustomed to."
+            ]
+          },
+          "section6": {
+            "title": "Designs - Clock Faces",
+            "content": [
+              "Designing the mechanism for customizing clock faces was deceptively complicated. Each clock face had a different level of customization. Some could only have the color changed, others had rich complications, each of which were customizable. To accommodate for these varying levels of customization, we adopted a simple drag-and-drop method that was easy for users to understand."
+            ]
+          },
+          "section7": {
+            "title": "Final Designs",
+            "content": []
+          },
+          "image0": "fitbit_0.jpg",
+          "image1": "fitbit_1.jpg",
+          "image2": "fitbit_2.jpg",
+          "image3": "fitbit_3.jpg",
+          "image4": "fitbit_4.jpg",
+          "image5": "fitbit_5.jpg",
+          "image6": "fitbit_6.jpg",
+          "image7": "fitbit_7.jpg",
+          "image8": "fitbit_8.jpg",
+          "image9": "fitbit_9.jpg",
+          "image10": "fitbit_10.jpg",
+          "image11": "fitbit_11.jpg",
+          "image12": "fitbit_12.jpg",
+          "image13": "fitbit_13.jpg",
+          "image14": "fitbit_14.jpg"
+          
+        }
+      }
+    ]
+  } 
+]

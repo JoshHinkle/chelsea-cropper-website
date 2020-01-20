@@ -1,0 +1,41 @@
+[
+  {
+    "data": {
+      "landing": {
+        "title": "Hi, I'm Chelsea",
+        "introParagraph": [
+          {
+            "content": "I’m a process-driven product designer living and working in San Francisco, spending my days thinking through design systems, untangling complex problems, and wriggling around in the details."
+          },
+          {
+            "content": "Currently a Senior Interaction Designer at <a href=\"http://www.punchcut.com\" target=\"_blank\">Punchcut</a>."
+          },
+          {
+            "content": "Perennially off to the side with my <a href=\"http://www.photos.chelseacropper.com\" target=\"_blank\">camera</a>."
+          }
+        ],
+        "buttonText": "View my work"
+      },
+      "process": {
+        "title": "Process",
+        "columns": [
+          {
+            "title": "Research & Discovery",
+            "content": "Understanding the problem is the first step towards finding a solution. Knowing the user behaviors and needs, business goals, and technical constraints of the space provide a solid foundation from which informed decisions and assumptions can be made. Focus on this, and building a shared understanding of the product experience across stakeholders and teams, is key in the early stages of any design."
+          },
+          {
+            "title": "Design & Prototype",
+            "content": "Better informed about the problem being solved for, design can begin and it usually begins with sketches. Sketching allows for the quick exploration of many ideas, without getting slowed down by the details of aesthetics or trying to achieve perfection. Once the initial concept has been roughly sketched out, refinement can begin. The tools for this are varied, but can include architecture maps, storyboards, wireframes, user flows and prototypes."
+          },
+          {
+            "title": "Test & Iterate",
+            "content": "As the interaction and visual design are taking shape, testing is leveraged to understand how the design is resonating with users. This should happen early and often during the design process to reduce the risk of unforeseen usability issues before committing to final designs. Prototypes of varying fidelity are used, from low-fidelity paper to high-fidelity interactive prototypes, depending on timing and desired findings. These learnings are used to inform iterations and optimize design solutions."
+          }
+        ]
+      },
+      "contact": {
+        "content": "Want to know more? Get in <a href=\"mailto:chlsea@gmail.com\" target=\"_blank\">touch</a>."
+      } 
+    }
+  }
+]

@@ -1,0 +1,388 @@
+@media(max-width: 600px) {
+  html{
+    font-size: 30%;
+  }
+}
+
+@media(max-width: 1100px) {
+  html{
+    font-size: 45%;
+  }
+}
+
+@media(max-width: 1200px) {
+  html{
+    font-size: 55%;
+  }
+}
+
+html.sr .load-hidden {
+    visibility: hidden;
+}
+
+
+
+@font-face {
+    font-family: "chelsea-proxima-bold";
+    src: url("_fonts/ProximaNova-Bold.otf");
+}
+
+@font-face {
+    font-family: "chelsea-proxima-reg";
+    src: url("_fonts/ProximaNova-Reg.otf");
+}
+
+@font-face {
+    font-family: "chelsea-tisa-reg";
+    src: url("_fonts/FF-Tisa-Pro.otf");
+}
+
+h5 {
+  font-family: chelsea-tisa-reg, Helvetica, sans-serif;
+  font-size: 2.8rem;
+}
+
+main {
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.disclaimer-parent {
+  background-color: rgba(51, 46, 46, 0.1);
+  height: 20rem;
+  opacity: 20;
+  display: table;
+}
+
+.disclaimer-child {
+  display: table-cell;
+  vertical-align: middle;
+  
+}
+.disclaimer-child-child{
+  display: block;
+  margin: 10px auto;
+  max-width: 68vw;
+}
+
+.full-width {
+	left: 50%;
+	margin-left: -50vw;
+	margin-right: -50vw;
+	max-width: 100vw;
+	position: relative;
+	right: 50%;
+	width: 100vw;
+}
+
+.nav {
+  width: 100%;
+  max-width: 1400px;
+  margin: 4rem auto;
+}
+
+.nav-content {
+  width: 95%; 
+  margin: 0 auto;
+}
+
+.nav-underline {
+  border-bottom: .3rem solid #000;
+}
+.container { 
+  max-width: 1200px;
+  margin: 0 auto;
+  min-width: 500px;
+}
+
+.max-container {
+  max-width: 2200px;
+}
+
+.intro-container {
+  min-height: 87vh;
+}
+
+.links {
+  margin-top: 60px;
+}
+
+
+.links a{
+  color: #000;
+}
+
+#top-background-spacer{
+  height: 38vh;
+}
+
+#bottom-background-spacer{
+  height: 25%;
+}
+
+@media (min-width: 400px){
+  .splash{
+    padding: 7rem;
+  }
+}
+
+.splash-typing{
+  display: table-cell;
+  vertical-align: middle; 
+}
+
+.black-button {
+  background-color: #000000;
+  border: none;
+  color: white;
+  padding: 15px 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: chelsea-proxima-bold, Helvetica, sans-serif;
+  font-size: 2.4rem;
+  width: 100%;
+  max-width: 200px;
+}
+
+.disclaimer {
+  font-family: "chelsea-proxima-reg";
+  font-style: italic;
+  color: #686868;
+}
+
+.welcome-img {
+	position: relative;
+	max-width: 100%;
+	size: 10%;
+  padding: 0 0 15rem;
+}
+
+.category-text{
+  font-family: chelsea-proxima-bold, Helvetica, sans-serif;
+  font-size: 1.2em;
+  text-align: left;
+  font-weight: 800;
+  color: #000;
+
+}
+
+@media(min-width: 550px){
+  .category-text{
+    font-size: 1em;
+
+  }
+}
+@media(min-width: 950px){
+  .category-text{
+    font-size: 1.4em;
+  }
+}
+
+.parallax {
+
+    /* Full height */
+     height: 100vh; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 0 0 .1em #111;
+}
+
+.paragraph-text{
+    font-family: chelsea-tisa-reg, Helvetica, sans-serif;
+    font-size: 21px;
+    text-align: left;
+}
+
+.black {
+  color: #000000;
+}
+
+.grey {
+  color: #686868;
+}
+
+.paragraph-text p{
+  color: #636363;
+  margin: 0;
+}
+
+p {
+  font-family: chelsea-tisa-reg, Helvetica, sans-serif;
+  font-size: 18px; 
+}
+
+li{
+  color: #636363;
+}
+
+body{
+	font-family: 'Libre Franklin', sans-serif;
+}
+
+span.nobreak {
+  white-space: nowrap;
+}
+
+h1 {
+  font-family: chelsea-proxima-bold, Helvetica, sans-serif;
+  font-size: 4.8rem;  
+  font-weight: normal;
+  line-height: 1.3em;
+  letter-spacing: .02em;
+  color: #000;
+}
+
+h2 {
+  font-family: chelsea-proxima-bold, Helvetica, sans-serif;
+  font-size: 3.6rem;  
+  font-weight: normal;
+  line-height: 1.3em;
+  letter-spacing: .02em;
+  color: #000;
+}
+
+h3 {
+  font-family: chelsea-proxima-bold, Helvetica, sans-serif;
+  font-size: 2.7rem;  
+  font-weight: normal;
+  line-height: 1.5em;
+  letter-spacing: .02em;
+  color: #000;
+}
+
+.header-text-div h3 {
+  font-family: chelsea-tisa-reg, Helvetica, sans-serif;
+  font-size: 2.7rem; 
+  margin-bottom: 4rem;
+  line-height: 1.5em;
+  letter-spacing: .02em;
+  color: #636363;
+}
+
+.header-text-div h4 {
+  font-family: chelsea-tisa-reg, Helvetica, sans-serif;
+  font-size: 18px; 
+  margin-top: 60px; 
+  line-height: 1.5em;
+  letter-spacing: .02em;
+  color: #636363;
+  margin-bottom: 4rem;
+}
+
+.nav-text {
+  font-family: chelsea-proxima-bold, Helvetica, sans-serif;
+  font-size: 2.4rem;  
+  line-height: 1.6em;
+  letter-spacing: .1em;
+}
+
+.right {
+  float: right;
+}
+.welcome{
+  position: relative;
+}
+
+/* #ny-photo{
+  background-image: url(../_img/profile_crop.jpg);
+  max-width: 2500px;
+} */
+
+#ny-text{
+  padding-bottom: 0px;
+  position: relative;
+  bottom: 0px;
+}
+
+.centered {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.parallax {
+
+    /* Full height */
+     height: 65vh; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 0 0 .1em #111;
+}
+
+.paragraph-text .experience-title{
+  font-size: 2rem;
+  font-weight: 800;
+  font-family: chelsea-proxima-bold, Helvetica, sans-serif;
+  color: #000;
+}
+.experience-subtitle{
+  font-size: 2rem;
+  color: grey;
+  font-weight: 800;
+  font-family: chelsea-proxima-reg, Helvetica, sans-serif;
+}
+.experience-date{
+  font-family: chelsea-proxima-reg, Helvetica, sans-serif;
+  font-size: 2rem;
+  text-align: left;
+  color: grey;
+
+}
+@media (min-width: 600px) {
+  .experience-date{
+    text-align: right;
+  }
+
+  
+}
+.experience-description{
+  font-size: .9em;
+}
+
+@media (min-width: 550px){
+  .experience-description{
+    padding-top: 1rem;
+  }  
+}
+
+ul {
+
+  margin-left: 0;
+  padding-left: 0;
+  margin-top: 0;
+}
+
+li {
+  padding-left: 1.4em;
+  text-indent: -1.4em;
+}
+a, .center-link{
+  font-weight: 800;
+  color:  #000000;
+  text-decoration: none;
+
+}
+a:hover{
+  color: grey;
+}
+
+
+
+@media(max-width: 800px){
+  #ny-photo{
+    display: none;
+  }
+}
+
