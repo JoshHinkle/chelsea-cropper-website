@@ -21,9 +21,7 @@ export default function HTML(props) {
           dangerouslySetInnerHTML={{
             __html: `
             var name = 'world';
-            console.log('Hello ' + name);
             var sr = ScrollReveal();
-            console.log("HIHIHI");
             sr.reveal('div');
         `,
           }}

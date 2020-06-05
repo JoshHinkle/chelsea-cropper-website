@@ -99,8 +99,7 @@ export default class Resume extends Component {
     )
     
   }
-
-
+  
   render() {
     let { content } = this.props
     return (

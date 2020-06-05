@@ -55,7 +55,9 @@ exports.createPages = ({ graphql, actions }) => {
     data {
       slug
       pageContent {
+        hideDisclaimer
         disclaimer
+        version
         image0
         image1
         image10

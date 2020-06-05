@@ -92,19 +92,31 @@ export default class ExperiencePage extends React.Component {
     })
   }
 
-  render() {
-    if (!isAuthenticated()) {
-      login()
-      return <p>Redirecting to login...</p>
+  renderContent(content) {
+    switch(content.version) {
+      case "2": { 
+        return this.renderV2(content)
+      }
+      case "3": {
+        return this.renderV3(content)
+      }
+      default: {
+        return this.renderV1(content)
+      }
     }
-    let content = this.props.pageContext.data.pageContent;
+  }
 
-    return(
-      <Layout category="work">
-        {this.renderLanding(content.title, content.summary)} 
+  renderV1(content) {
+    return (
+      <div>
+        {this.renderLanding(content.title, content.summary)}
         {this.renderRowSummary(content.rowSummary)}
-        {this.renderDisclaimer(content.disclaimer)}
-        <Image imgName={content.image0} fullPage/>
+        {content.hideDisclaimer ? (
+          <LittleSpacer />
+        ) : (
+          this.renderDisclaimer(content.disclaimer)
+        )}
+        <Image imgName={content.image0} fullPage />
         <Section section={content.section1} />
         {this.renderDoubleImages(content.image1, content.image2)}
         <Section section={content.section2} />
@@ -114,11 +126,102 @@ export default class ExperiencePage extends React.Component {
         <Section section={content.section4} />
         {this.renderDoubleImages(content.image5, content.image6)}
         <Section section={content.section5} />
-        {this.renderMutlipleSingleImages([content.image7, content.image8, content.image9])}
+        {this.renderMutlipleSingleImages([
+          content.image7,
+          content.image8,
+          content.image9,
+        ])}
         <Section section={content.section6} />
         {this.renderMutlipleSingleImages([content.image10, content.image11])}
         <Section section={content.section7} />
-        {this.renderMutlipleSingleImages([content.image12, content.image13, content.image14, content.image15, content.image16])}
+        {this.renderMutlipleSingleImages([
+          content.image12,
+          content.image13,
+          content.image14,
+          content.image15,
+          content.image16,
+        ])}
+      </div>
+    )
+  }
+
+  renderV2(content) {
+    return (
+      <div>
+        {this.renderLanding(content.title, content.summary)}
+        {this.renderRowSummary(content.rowSummary)}
+        {content.hideDisclaimer ? (
+          <LittleSpacer />
+        ) : (
+          this.renderDisclaimer(content.disclaimer)
+        )}
+        <Image imgName={content.image0} fullPage />
+        <Section section={content.section1} />
+        {this.renderMutlipleSingleImages([
+          content.image1,
+          content.image2,
+          content.image3,
+        ])}
+        <Section section={content.section2} />
+        {this.renderMutlipleSingleImages([
+          content.image4,
+          content.image5,
+          content.image6,
+          content.image7,
+          content.image8,
+          content.image9,
+        ])}
+        <Section section={content.section3} />
+        {this.renderMutlipleSingleImages([
+          content.image10,
+          content.image11,
+          content.image12
+        ])}
+      </div>
+    )
+  }
+
+  renderV3(content) {
+    return (
+      <div>
+        {this.renderLanding(content.title, content.summary)}
+        {this.renderRowSummary(content.rowSummary)}
+        {content.hideDisclaimer ? (
+          <LittleSpacer />
+        ) : (
+          this.renderDisclaimer(content.disclaimer)
+        )}
+        <Image imgName={content.image0} fullPage />
+        <Section section={content.section1} />
+        {this.renderMutlipleSingleImages([content.image1, content.image2])}
+        <Section section={content.section2} />
+        {this.renderMutlipleSingleImages([content.image3, content.image4])}
+        <Section section={content.section3} />
+        {this.renderMutlipleSingleImages([content.image5, content.image6])}
+        <BigSpacer />
+        <Section section={content.section4} />
+        {this.renderMutlipleSingleImages([
+          content.image7,
+          content.image8,
+          content.image9,
+          content.image10,
+          content.image11,
+          content.image12,
+        ])}
+      </div>
+    )
+  }
+
+  render() {
+    if (!isAuthenticated()) {
+      login()
+      return <p>Redirecting to login...</p>
+    }
+    let content = this.props.pageContext.data.pageContent;
+
+    return(
+      <Layout category="work">
+        {this.renderContent(content)}
       </Layout>
     )
   }
