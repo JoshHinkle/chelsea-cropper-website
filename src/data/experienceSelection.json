@@ -2,9 +2,191 @@
   {
     "data": [
       {
+        "title": "Faire",
+        "description": "Overview of contributions to the online wholesale platform Faire.",
+        "imagePath": "faire_0.png",
+        "slug": "faire",
+        "pageContent": {
+          "title": "Faire",
+          "summary": [
+            "Through the use of technology and machine learning, Faire has connected brands and boutiques from around the world to build a thriving community of more than 10,000 small business owners. As a Product Designer on this rapidly-growing platform, I helped shape our new products and experiences from the ground up, offering expertise in research and UX design, championing customer needs, and connecting those needs with our business goals and objectives."
+          ],
+          "rowSummary": [
+            {
+              "title": "My role",
+              "content": "UX Design, Research, Systems Design"
+            },
+            {
+              "title": "Duration",
+              "content": "10 months"
+            },
+            {
+              "title": "Output",
+              "content": "Product design for online marketplace and wholesale management tools across mobile and web platforms."
+            }
+          ],
+          "disclaimer": "Note: To comply with my non-disclosure agreement, I have intentionally omitted and obfuscated confidential information. If you have questions, please get in touch.",
+          "section1": {
+            "title": "Research Lead",
+            "content": [
+              "I structured and led research efforts to ensure the proper foundation was laid before the start of any design work. This research and data was then leveraged to inform our design decisions and product strategy. Qualitative user interviews were conducted with our retailers and brands to understand how current features were being used, or if a new idea was resonating. Findings from these interviews were then used to either inform our design approach or determine if a shift in  direction was needed in the event that an idea was n ot aligned with users' current needs. Quantitative data available through our metrics would lend further credence to our initial findings, or expose incongruities to be further investigated."
+            ]
+          },
+          "section2": {
+            "title": "UX Design Lead",
+            "content": [
+              "I led the creation of functional and beautiful end-to-end user experiences for both our core and uncommon use cases across digital touchpoints in Faire’s ecosystem. Through partnering with Product, Engineering, and Customer Service to ensure all aspects of a problem were being addressed from conception to launch, I was able to craft thoughtful solutions to best serve the needs of our both our retailers and our brands. This effort included contributing to strategic product thinking and defining user requirements, leading brainstorming efforts, and guiding concept development through to implementation. Tactically, we employed architecture maps, wireframes, visual design, and storytelling to bring our solutions to life - prototyping early and often to gather feedback with each iteration.  "
+            ]
+          },
+          "section3": {
+            "title": "Systems Design",
+            "content": [
+              "I helped to evolve Faire's design systems and standards to provide our team with the tools needed to craft experiences that feel consistently ___. Through doing this, we helped to show our personality and establish our brand; using consistent layouts, components, and labeling in our designs made our products more usable and inspired trust. I worked with my team to create a unified a unified, cohesive set of UX and visual guidelines and component libraries for products across Faire. These systems were informed through closely partnering with not only designers, but Engineering and Product Managers as well to ensure our system would work for all disciplines touching our working and final files. Our design system was thoroughly documented and evangelized across teams to ensure buy-in and use of the system was upheld."
+            ]
+          },
+          "section4": {
+            "title": "User Journeys",
+            "content": [
+              "User Journeys were created which helped identify core principles and key hero moments to explore. Through concept sketching, we broadly sketched around the themes and ideas we heard most resonating with the participants in our interviews (such as personalization, contextual awareness, and enhanced driving). These were then culled into emerging themes that we developed into user stories for each of our three personas."
+            ]
+          },
+          "section5": {
+            "title": "",
+            "content": [
+              
+            ]
+          },
+          "section6": {
+            "title": "",
+            "content": [
+              ]
+          },
+          "section7": {
+            "title": "",
+            "content": [
+
+            ]
+          },
+          "image0": "faire_1.png",
+          "image1": "faire_2.jpg",
+          "image2": "faire_3.png",
+          "image3": "faire_4.png",
+          "image4": "faire_5.png",
+          "image5": "faire_6.png",
+          "image6": "faire_7.png",
+          "image7": "faire_8.png",
+          "image8": "faire_9.png",
+          "image9": "faire_10.png",
+          "image10": "faire_11.png",
+          "image11": "faire_12.png",
+          "image12": "faire_13.png",
+          "image13": "nissan_13.png",
+          "image14": "nissan_14.png",
+          "image15": "nissan_15.png",
+          "image16": "nissan_16.png"
+        }
+      },
+      {
+        "title": "Beyond the Page",
+        "description": "Print catalog enhanced with AR to showcase products available on Faire.",
+        "imagePath": "hackWeek_0.png",
+        "slug": "beyond-the-page",
+        "pageContent": {
+          "title": "Beyond the Page",
+          "summary": [
+            "“Beyond the Page” is a print catalog for showcasing and shopping products available on Faire through the use of AR. Our team concepted, designed, printed, and developed a print catalog with companion AR experience to allow retailer’s a familiar way to browse products available on Faire and purchase these products through the use of AR and image recognition on their mobile device."
+          ],
+          "rowSummary": [
+            {
+              "title": "My role",
+              "content": "Interaction Design, AR developer"
+            },
+            {
+              "title": "Duration",
+              "content": "5 Days"
+            },
+            {
+              "title": "Output",
+              "content": "Fully designed 60-page printed catalog iOS prototype demonstrating companion AR Experience"
+            }
+          ],
+          "disclaimer": "Note: To comply with my non-disclosure agreement, I have intentionally omitted and obfuscated confidential information. If you have questions, please get in touch.",
+          "section1": {
+            "title": "Context",
+            "content": [
+              "Through our research, we knew that retailers on Faire were accustomed to browsing and purchasing wholesale products for their stores offline via catalogs, sales representatives, and trade shows. At Faire, we had created an entirely digital model to replace this offline paradigm, one which required retailers to significantly adjust their behavior patterns when it came to purchasing wholesale products for their stores. We saw that we had an opportunity, as we brought more retailers onto Faire, to use technology to bridge the offline and online experience."
+            ]
+          },
+          "section2": {
+            "title": "The Solution",
+            "content": [
+              "Volume 01  - The Minimalist Issue",
+              "We designed a print catalog that would map to the current mental model of physically browsing and shopping for items, with Faire’s digital platform that would allow them to follow-through and purchase the item. The connective tissue that bridged these two experiences (the physical and the digital) lay in the hands of augmented reality. A retailer would be able to browse the print catalog and, upon seeing an item of interest, hover over the image of the item with their phone and see information related to that item. Tapping on this would summon and display the product detail page from where the user could then add the item to his or her cart, or dismiss and continue browsing, thus bringing the experience full circle."
+            ]
+          },
+          "section3": {
+            "title": "The AR Prototype",
+            "content": [
+              "To effectively demonstrate and convey the power of our idea to our stakeholders, we knew we couldn’t just rely on words and our audience’s imagination. We would need to create a functioning prototype that people could experience in their hands to fully convey the power of the idea.",
+              "I looked to Unity to craft a prototype capable of recognizing a select set of images from within our printed catalog. Once the image recognition piece was functioning, and the system capable of surfacing information I had tethered to each image, I made the content interactable. Tapping on any surfaced piece of information would take the user to the product detail page of that item.",
+              "The experience demonstrated by the prototype was enough to convey the intent of the design and generate buy in. We were given the green light.",
+              ""
+            ]
+          },
+          "section4": {
+            "title": "",
+            "content": [
+              ""
+            ]
+          },
+          "section5": {
+            "title": "",
+            "content": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          },
+          "section6": {
+            "title": "Testing",
+            "content": [
+              "",
+              "",
+              ""
+            ]
+          },
+          "section7": {
+            "title": "",
+            "content": [
+
+            ]
+          },
+          "image0": "hackWeek_1.png",
+          "image1": "hackWeek_2.png",
+          "image2": "hackWeek_3.png",
+          "image3": "hackWeek_4.png",
+          "image4": "hackWeek_5.png",
+          "image5": "hackWeek_6.png", 
+          "image6": "hackWeek_7.jpg",
+          "image7": "hackWeek_8.png",
+          "image8": "hackWeek_9.png",
+          "image9": "hackWeek_10.png",
+          "image10": "hackWeek_11.png",
+          "image11": "hackWeek_12.png",
+          "image12": "hackWeek_13.png",
+          "image13": "nissan_13.png",
+          "image14": "nissan_14.png",
+          "image15": "nissan_15.png",
+          "image16": "nissan_16.png"
+        }
+      },
+      {
         "title": "Nissan",
         "description": "HMI for upcoming 2020 electric crossover vehicle.",
-        "imagePath": "nissan_16.png",
+        "imagePath": "nissan_17.png",
         "slug": "nissan",
         "pageContent": {
           "title": "Nissan",
@@ -101,7 +283,7 @@
       {
         "title": "Experian",
         "description": "New system to help people better engage with and understand their credit.",
-        "imagePath": "experian_hero.jpg",
+        "imagePath": "experian_18.png",
         "slug": "experian",
         "pageContent": {
           "title": "Experian",
@@ -189,7 +371,7 @@
       {
         "title": "Fitbit",
         "description": "iOS App store design for the Fitbit Ionic",
-        "imagePath": "fitbit_landing.jpg",
+        "imagePath": "fitbit_15.png",
         "slug": "fitbit",
         "pageContent": {
           "title": "Fitbit",

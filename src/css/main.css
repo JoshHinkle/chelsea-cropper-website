@@ -104,7 +104,7 @@ img {
 }
 
 .intro-container {
-  min-height: 87vh;
+  min-height: 67vh;
 }
 
 .links {
@@ -218,6 +218,7 @@ img {
 p {
   font-family: chelsea-tisa-reg, Helvetica, sans-serif;
   font-size: 18px; 
+  line-height: 1.8;
 }
 
 li{
@@ -243,7 +244,7 @@ h1 {
 
 h2 {
   font-family: chelsea-proxima-bold, Helvetica, sans-serif;
-  font-size: 3.6rem;  
+  font-size: 3.0rem;  
   font-weight: normal;
   line-height: 1.3em;
   letter-spacing: .02em;
@@ -252,11 +253,11 @@ h2 {
 
 h3 {
   font-family: chelsea-proxima-bold, Helvetica, sans-serif;
-  font-size: 2.7rem;  
+  font-size: 2.2rem;  
   font-weight: normal;
   line-height: 1.5em;
   letter-spacing: .02em;
-  color: #000;
+  color: #636363;
 }
 
 .header-text-div h3 {
@@ -280,7 +281,7 @@ h3 {
 
 .nav-text {
   font-family: chelsea-proxima-bold, Helvetica, sans-serif;
-  font-size: 2.4rem;  
+  font-size: 1.8rem;  
   line-height: 1.6em;
   letter-spacing: .1em;
 }

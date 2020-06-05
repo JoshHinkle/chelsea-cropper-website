@@ -10,7 +10,7 @@ const Homepage = (props) => {
     <>
       <Landing content={data.landing}/>
       <Process content={data.process}/>
-      <Spacer height={11}/>
+      <Spacer height={5}/>
       <Contact content={data.contact}/>
     </>
   )

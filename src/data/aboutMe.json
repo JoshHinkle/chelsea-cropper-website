@@ -11,17 +11,31 @@
         {
           "title": "EXPERIENCE",
           "entries": [
+            
+            {
+              "title": "FAIRE",
+              "subtitle": "Product Design Lead",
+              "date": "08/19 - 06/20",
+              "content": [
+                "Contributed to strategic product thinking to define product goals, business goals, and user requirements in collaboration with both product managers and engineers",
+                "Worked through complex end-to-end user experience flows to demonstrate beautiful and functional visual and interaction design",
+                "Leveraged data and research to inform design decisions and product strategies",
+                "Rolled out designs in small, iterative steps to validate assumptions and test hybotheses with lightweigh research",
+                "Crafted the structure and script for reserach efforts to evaluate users needs, motivations, and pain points",
+                "Helped to establish Faire's design system through creating a unified, cohesive set of UX and visual guidelines and components"
+              ]
+            },
             {
               "title": "PUNCHCUT",
               "subtitle": "Senior Interaction Designer",
-              "date": "04/15 - Present",
+              "date": "04/15 - 08/19",
               "content": [
                 "Lead Interaction Designer for web, mobile, tablet, TV, wearables, and automotive products",
-                "Lead brainstorming and concepting sessions internally and with clients",
-                "Develop use cases, personas, wireframes, storyboards, detailed specifications, and prototypes",
-                "Lead ethnographic user research and analysis activities to uncover user needs and motivations",
-                "Deliver detailed design documentation, flows, and specifications",
-                "Provide guidance and mentorship to peers and junior team members"
+                "Led brainstorming and concepting sessions internally and with clients",
+                "Developed use cases, personas, wireframes, storyboards, detailed specifications, and prototypes",
+                "Led ethnographic user research and analysis activities to uncover user needs and motivations",
+                "Delivered detailed design documentation, flows, and specifications",
+                "Provided guidance and mentorship to peers and junior team members"
               ]
             },
             {

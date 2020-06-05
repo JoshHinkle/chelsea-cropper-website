@@ -2,7 +2,7 @@
   {
     "data": {
       "landing": {
-        "title": "Hi, I'm Chelsea",
+        "title": "Hi, I'm Chelsea.",
         "introParagraph": [
           {
             "content": "I’m a process-driven product designer living and working in San Francisco, spending my days thinking through design systems, untangling complex problems, and wriggling around in the details."
@@ -21,15 +21,15 @@
         "columns": [
           {
             "title": "Research & Discovery",
-            "content": "Understanding the problem is the first step towards finding a solution. Knowing the user behaviors and needs, business goals, and technical constraints of the space provide a solid foundation from which informed decisions and assumptions can be made. Focus on this, and building a shared understanding of the product experience across stakeholders and teams, is key in the early stages of any design."
+            "content": "Understanding user needs, behaviors, business goals, and technical constraints is important in forming a solid foundation from which informed design decisions can be made. Focusing on this, as well as building a shared understanding of the product experience across stakeholders, is key in the early stages of any design."
           },
           {
             "title": "Design & Prototype",
-            "content": "Better informed about the problem being solved for, design can begin and it usually begins with sketches. Sketching allows for the quick exploration of many ideas, without getting slowed down by the details of aesthetics or trying to achieve perfection. Once the initial concept has been roughly sketched out, refinement can begin. The tools for this are varied, but can include architecture maps, storyboards, wireframes, user flows and prototypes."
+            "content": "With the information gleaned in the discovery phase, the Design phase can begin…and it usually begins with sketches. Lots of sketches. Once an idea begins to take shape, fidelity and details are steadily increased and the focus is shifted from sketches to wireframes, user stories, and architecture maps. Prototypes are also used to test ideas with users and generate buy-in from stakeholders on the team."
           },
           {
             "title": "Test & Iterate",
-            "content": "As the interaction and visual design are taking shape, testing is leveraged to understand how the design is resonating with users. This should happen early and often during the design process to reduce the risk of unforeseen usability issues before committing to final designs. Prototypes of varying fidelity are used, from low-fidelity paper to high-fidelity interactive prototypes, depending on timing and desired findings. These learnings are used to inform iterations and optimize design solutions."
+            "content": "Testing is leveraged early and often to understand how a design is resonating with users. Learnings are then used to inform iterations and optimize design solutions. From here, Engineering is brought in to first understand the intended behavior, and then to implement. After launch, user behavior and feedback is gathered, with necessary adjustments made as needed."
           }
         ]
       },

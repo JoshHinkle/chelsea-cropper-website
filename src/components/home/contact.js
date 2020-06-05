@@ -3,7 +3,9 @@ import React from "react"
 const Contact = (props) => {
   let object = { __html: props.content.content }
   return (
-    <h5 className="grey" dangerouslySetInnerHTML={object}></h5>
+    <div className="row">
+      <h5 className="grey" dangerouslySetInnerHTML={object}></h5>
+    </div>
   )
 }
 
