@@ -24,7 +24,7 @@ export default class Landing extends React.Component{
             </div>
           </div>
         </div>
-        <Spacer height="7" />
+        <Spacer height="3" />
         <div className="row">
           <div className="four columns">
             <Link to="/portfolio">

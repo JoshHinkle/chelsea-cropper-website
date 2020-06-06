@@ -29,7 +29,7 @@ export default class Process extends React.Component {
           <div className="row">
             {this.renderColumnTitles(columnData)}
           </div>
-          <Spacer height={2} />
+          <Spacer height={.5} />
           <div className="row">
             {this.renderColumnInfo(columnData)}
           </div>
@@ -48,7 +48,7 @@ export default class Process extends React.Component {
     return columnData.map((element, i) => {
       return(
         <div className="four columns" key={i}>
-          <h3>{element.title}</h3>
+          <h3 className="processColumnTitle">{element.title}</h3>
         </div>
       )
     })
@@ -82,9 +82,9 @@ export default class Process extends React.Component {
     return (
       <div>
         <div className="row">
-          <h2>{title}</h2>
+          <h2 className="processTitle">{title}</h2>
         </div>
-        <Spacer height={3} />
+        <Spacer height={0.001} />
         {this.renderColumns(columnData, width)}
       </div>
     )

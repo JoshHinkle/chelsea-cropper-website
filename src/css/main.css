@@ -104,7 +104,7 @@ img {
 }
 
 .intro-container {
-  min-height: 67vh;
+  min-height: 48vh;
 }
 
 .links {
@@ -217,7 +217,7 @@ img {
 
 p {
   font-family: chelsea-tisa-reg, Helvetica, sans-serif;
-  font-size: 18px; 
+  font-size: 16px; 
   line-height: 1.8;
 }
 
@@ -242,9 +242,13 @@ h1 {
   color: #000;
 }
 
+h2.processTitle {
+  margin-bottom: 1;
+}
+
 h2 {
   font-family: chelsea-proxima-bold, Helvetica, sans-serif;
-  font-size: 3.0rem;  
+  font-size: 2.5rem;  
   font-weight: normal;
   line-height: 1.3em;
   letter-spacing: .02em;
@@ -253,11 +257,15 @@ h2 {
 
 h3 {
   font-family: chelsea-proxima-bold, Helvetica, sans-serif;
-  font-size: 2.2rem;  
+  font-size: 2.0rem;  
   font-weight: normal;
   line-height: 1.5em;
   letter-spacing: .02em;
   color: #636363;
+}
+
+h3.processColumnTitle {
+  margin-bottom: .3;
 }
 
 .header-text-div h3 {
