@@ -5,14 +5,9 @@
         "title": "Hi, I'm Chelsea.",
         "introParagraph": [
           {
-            "content": "I’m a process-driven product designer living and working in San Francisco, spending my days thinking through design systems, untangling complex problems, and wriggling around in the details."
-          },
-          {
-            "content": ""
-          },
-          {
-            "content": ""
+            "content": "I’m a process-driven designer living and working in San Francisco, spending my days thinking through designs, untangling complex problems and wriggling around in the details."
           }
+         
         ],
         "buttonText": "View my work"
       },

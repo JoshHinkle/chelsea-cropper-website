@@ -15,6 +15,14 @@ export default class AboutMeContent extends Component {
     });
   }
 
+  renderContactInfo(contactInfo) {
+    return (
+      <div>
+        {contactInfo.map((element, i) => <ContactLink key={i} content={element} />)}
+      </div>
+    )
+  }
+
   render() {
     let content = this.props.content.aboutMeJson.data;
     return (
@@ -25,6 +33,8 @@ export default class AboutMeContent extends Component {
             <div className="header-text-div" id="first-intro-typing-div">
               <h1>{content.title}</h1>
               {this.renderParagraph(content.introParagraph)}
+              <Spacer height="2" />
+              {this.renderContactInfo(content.contactInfo)}
             </div>
           </div>
         </div>
@@ -34,4 +44,14 @@ export default class AboutMeContent extends Component {
       </div>
     )
   }
+}
+
+const ContactLink = ({key, content}) => {
+  let constructedLink = content.link ? (<a href={content.link} target="_blank">{content.text}</a>) : `${content.text}`
+  let line = `${content.title}: `
+  return (
+    <div key={key}>
+      <h4 className="aboutMeContact">{line} {constructedLink}</h4>
+    </div>
+  )
 }

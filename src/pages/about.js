@@ -9,7 +9,7 @@ export default class About extends React.Component {
   render() {
     return (
       <Layout category="about">
-        <SEO title="About"/>
+        <SEO title=""/>
         <StaticQuery
           query={aboutMeQuery}
           render={data => (<AboutMeContent content={data} />)}
@@ -25,6 +25,11 @@ const aboutMeQuery = graphql
     aboutMeJson {
       data {
         introParagraph
+        contactInfo {
+          title
+          text
+          link
+        }
         imagePath
         resumeFields {
           title

@@ -255,6 +255,11 @@ h2 {
   color: #000;
 }
 
+
+h2.introParagraph{
+  size: 10px
+}
+
 h3 {
   font-family: chelsea-proxima-bold, Helvetica, sans-serif;
   font-size: 2.0rem;  
@@ -395,3 +400,7 @@ a:hover{
   }
 }
 
+h4.aboutMeContact {
+  margin-top: 0;
+  margin-bottom:1rem;
+}

@@ -3,8 +3,35 @@
     "data": {
       "title": "Real quick, a bit about me:",
       "introParagraph": [
-        "I was born and raised in the Bay Area, spent a few years at UCLA getting my degree in Design | Media Arts, and I now live in San Francisco with a cat that isn't that great and a puppy who is.",
-        "If I'm not working, I'm probably playing a video game, visiting a ghost town, traveling somewhere, or at the SF Library researching local history. I'm also very fond of film photography and spend much of my time roaming around, enjoying the company of my camera. You can view some of our time together <a href=\"http://www.photos.chelseacropper.com\" target=\"_blank\">here</a>."
+        "I was raised in the Bay Area, spent a few years at UCLA getting my degree in Design | Media Arts, and now live in San Francisco with a cat that isn't that great and a dog who is. If I'm not working, I'm probably playing a video game, visiting a ghost town, or at the SF Library researching local history. I'm also very fond of film photography and spend much of my time roaming around, enjoying the company of my camera. You can view some of our time together <a href=\"http://www.photos.chelseacropper.com\" target=\"_blank\">here</a>.",
+        "If you're curious about ghost towns or want to hear about my cat or if you just want to know more about my work (more likely), say hi:"
+      ],
+      "contactInfo": [
+        {
+          "title": "LinkedIn",
+          "text": "/in/ccropper",
+          "link": "https://www.linkedin.com/in/ccropper/"
+        },
+        {
+          "title": "Email",
+          "text": "chlsea@gmail.com",
+          "link": "mailto:chlsea@gmail.com"
+        },
+        {
+          "title": "Phone",
+          "text": "415.233.3110"
+        },
+        {
+          "title": "Instagram (personal)",
+          "text": "@chlsea",
+          "link": "https://www.instagram.com/chlsea/"
+        },
+        {
+          "title": "Instagram (film photography)",
+          "text": "@drawingspaces",
+          "link": "https://www.instagram.com/drawingspaces/"
+        }
+        
       ],
       "imagePath": "profile_crop.jpg",
       "resumeFields": [

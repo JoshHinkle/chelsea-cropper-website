@@ -13,7 +13,7 @@ const Portfolio = () => {
   }
   return (
     <Layout category="work">
-        <SEO title="Work" />
+        <SEO title="" />
         <StaticQuery
           query={experienceSelectionQuery}
           render={data => (<ExperienceSelection content={data} />)}
