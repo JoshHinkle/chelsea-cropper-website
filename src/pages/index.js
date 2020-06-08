@@ -35,7 +35,7 @@ const homepageQuery = graphql`
 
 const IndexPage = () => (
   <Layout category="home">
-    <SEO title="Home" />
+    <SEO title="" />
     <StaticQuery 
       query={homepageQuery}
       render={data => (<Homepage content={data} />)}
